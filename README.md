@@ -13,7 +13,7 @@ $ git clone https://github.com/shb-services/REST-API-for-shop-app.git
 * Node js
 * Express js
 
-##### Packages
+#### Packages Installation
 
 * nodemon
     ```console
