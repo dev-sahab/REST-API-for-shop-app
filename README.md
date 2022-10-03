@@ -26,7 +26,7 @@ $ npm i packages_name
 
 ## Use API
 
-```consol
+```js
 
 // to get all data
 GET url/api/v1/user
