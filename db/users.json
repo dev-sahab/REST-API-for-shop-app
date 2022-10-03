@@ -1,0 +1,12 @@
+[
+    {
+        "id" : 123,
+        "name" : "Shahab",
+        "email" : "mdshahab.bc@gmail.com",
+        "cell" : "01719398245",
+        "location" : "Baniyachong",
+        "zip_code" : "3351",
+        "shipping_address" : "ABC road, Baniyachong, Habiganj",
+        "billing_address" : "ABC road, Baniyachong, Habiganj"
+    }
+]
