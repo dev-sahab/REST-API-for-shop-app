@@ -40,17 +40,20 @@ In this below console, there is showing  "desc, name and access".
 
 ### User API
 
+* #### Get All User API
+
 ```consle
-## Get All User API
 
 /**
  * desc Get all user
  * name GET /api/v1/user
  * access public
  */
+```
 
-## Create User API
+* #### Create User API
 
+```console
 /**
  * desc Create a user data
  * name POST /api/v1/user
