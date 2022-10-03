@@ -25,7 +25,7 @@ $ npm i packages_name
 ```
 
 ## List of API's
- * [User](/REST-API-for-shop-app#user-api)
+ * [User](#user-api)
     * Get All User Data
     * Create A User Data
 * Product 
