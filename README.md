@@ -40,10 +40,9 @@ In this below console, there is showing  "desc, name and access".
 
 ### User API
 
-* #### Get All User API
+* #### Get All User Data - API
 
-```consle
-
+```console
 /**
  * desc Get all user
  * name GET /api/v1/user
@@ -51,7 +50,7 @@ In this below console, there is showing  "desc, name and access".
  */
 ```
 
-* #### Create User API
+* #### Create User Data - API
 
 ```console
 /**
@@ -69,5 +68,4 @@ location,
 zip_code, 
 shipping_address, 
 billing_address
-
 ```
