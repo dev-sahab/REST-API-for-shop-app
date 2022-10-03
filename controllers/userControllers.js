@@ -33,7 +33,7 @@ const createUser = ( req, res ) => {
         const random_id = Date.now() +'_'+ Math.floor(Math.random() * 100000)
 
         userData.push({
-            id : random_id,
+            id : random_id.toString(),
             name : name,
             email : email, 
             cell : cell,
