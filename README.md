@@ -24,6 +24,16 @@ $ git clone https://github.com/shb-services/REST-API-for-shop-app.git
 $ npm i packages_name
 ```
 
+## List of API's
+ * User
+    * Get All User Data
+    * Create A User Data
+* Product 
+    * Get All Product Data
+    * Create A Product Data
+* Category 
+* Tag 
+
 ## Use API
 
 In this below console, there is showing  "desc, name and access".
