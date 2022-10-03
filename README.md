@@ -36,17 +36,20 @@ In this commenting system, there is showing  "desc, name and access".
     * "access" is who can access this system.
 
 ###### S. Note : use your domain before /api/v1/slug
-<br>
 
-#### User API
 
-```js
+### User API
+
+```consle
+## Get All User API
 
 /**
  * desc Get all user
  * name GET /api/v1/user
  * access public
  */
+
+## Create User API
 
 /**
  * desc Create a user data
