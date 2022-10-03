@@ -26,7 +26,7 @@ $ npm i packages_name
 
 ## Use API
 
-In this commenting system, there is showing  "desc, name and access".
+In this below console, there is showing  "desc, name and access".
 
 * desc
     * "desc" is to describe details.
@@ -57,7 +57,14 @@ In this commenting system, there is showing  "desc, name and access".
  * access public
  */
 
-// need keys:
-// name, email, cell, location, zip_code, shipping_address, billing_address;
+// need keys to create a user   
+
+name, 
+email, 
+cell, 
+location, 
+zip_code, 
+shipping_address, 
+billing_address
 
 ```
