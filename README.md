@@ -10,15 +10,15 @@ $ git clone https://github.com/shb-services/REST-API-for-shop-app.git
 
 ### Frameworks
 
-* Node js
-* Express js
+- Node js
+- Express js
 
 #### Packages Installation
 
-* nodemon
-* dotenv
-* express
-* colors
+- nodemon
+- dotenv
+- express
+- colors
 
 ```console
 $ npm i packages_name
@@ -26,14 +26,35 @@ $ npm i packages_name
 
 ## Use API
 
+In this commenting system, there is showing  "desc, name and access".
+
+* desc
+    * "desc" is to describe details.
+* name 
+    * "name" is Method & API link.
+* access
+    * "access" is who can access this system.
+
+###### S. Note : use your domain before /api/v1/slug
+<br>
+
+#### User API
+
 ```js
 
-// to get all data
-GET url/api/v1/user
+/**
+ * desc Get all user
+ * name GET /api/v1/user
+ * access public
+ */
 
-// to create a user
-POST url/api/v1/user
+/**
+ * desc Create a user data
+ * name POST /api/v1/user
+ * access public
+ */
 
-need keys:
-name, email, cell, location, zip_code, shipping_address, billing_address
+// need keys:
+// name, email, cell, location, zip_code, shipping_address, billing_address;
+
 ```
