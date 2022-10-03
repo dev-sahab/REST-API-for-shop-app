@@ -16,18 +16,10 @@ $ git clone https://github.com/shb-services/REST-API-for-shop-app.git
 #### Packages Installation
 
 * nodemon
-    ```console
-    $ npm i nodemon
-    ```
 * dotenv
-    ```console
-    $ npm i dotenv
-    ```
 * express
-    ```console
-    $ npm i express
-    ```
 * colors
-    ```console
-    $ npm i colors
-    ```
+
+```console
+$ npm i packages_name
+```
