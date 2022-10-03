@@ -26,8 +26,8 @@ $ npm i packages_name
 
 ## List of API's
  * [User](#user-api)
-    * Get All User Data
-    * Create A User Data
+    * [Get All User Data](#get-all-user-data---api)
+    * [Create A User Data](#create-user-data---api)
 * Product 
     * Get All Product Data
     * Create A Product Data
