@@ -23,3 +23,17 @@ $ git clone https://github.com/shb-services/REST-API-for-shop-app.git
 ```console
 $ npm i packages_name
 ```
+
+## Use API
+
+```consol
+
+// to get all data
+GET url/api/v1/user
+
+// to create a user
+POST url/api/v1/user
+
+need keys:
+name, email, cell, location, zip_code, shipping_address, billing_address
+```
