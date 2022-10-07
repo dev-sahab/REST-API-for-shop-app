@@ -28,7 +28,7 @@ $ npm i packages_name
 
 #### Import Postman Collection Documetation
 
-<strong>Copy below link or [<img style="transform: translateY(5px" src="https://img.shields.io/badge/Click%20-Here-important" />](https://documenter.getpostman.com/view/22686421/2s83zfS6Rh)</strong>
+<strong>Copy below link or [<img style="transform: translateY(5px)" src="https://img.shields.io/badge/Click%20-Here-important" />](https://documenter.getpostman.com/view/22686421/2s83zfS6Rh)</strong>
 ```consol
 https://documenter.getpostman.com/view/22686421/2s83zfS6Rh
 ```
